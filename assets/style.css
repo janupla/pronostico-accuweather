@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.contenedor{
+    display: flex;
+}
+
 body {
 background-image: url("images.jpg");
 background-repeat: no-repeat;
