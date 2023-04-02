@@ -5,7 +5,7 @@ import { generarDataset } from "./chart.js"
 
 /* Datos para Uso de API de Accuuweather */
 const apikey = 'wa98WAqONdUhh3ZlwLt0dR3T0ecyORQH'
-const baseURL = 'http://dataservice.accuweather.com'
+const baseURL = 'https://dataservice.accuweather.com'
 
 /* Arreglo con codigos de ciudades */
 /* Santiago - Buenos Aires - Lima - Brasilia - Quito - Caracas - La Paz - Asuncion - Montevideo - La Habana - Panama - Sto Domingo */
