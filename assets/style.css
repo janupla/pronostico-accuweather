@@ -1,0 +1,215 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-image: url("/assets/images.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.fondo-titulo{
+    background-color: chocolate;
+    height: 50;
+    width: 50;
+}
+
+
+#titulo {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    padding: 5%;
+
+}
+
+
+.contenedor-ciudad {
+    margin-top: 50px;
+}
+
+.btn-1 {
+
+    border: 2px solid #1d531e;
+    background-color: green;
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+
+}
+
+.btn-2 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-3 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-4 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-5 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-6 {
+
+    border: none;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-7 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-8 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-9 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-10 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-11 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+.btn-12 {
+
+    border: 2px solid #1d531e;
+    background-color: rgb(65, 102, 124);
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+
+}
