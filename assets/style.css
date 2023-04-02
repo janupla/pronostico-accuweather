@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.contenedor{
+.contenedor {
     display: flex;
 }
 
@@ -16,16 +16,17 @@
 }
 
 body {
-background-image: url("FONDO-GRIS-e1472480711572.jpg");
-background-repeat: no-repeat;
-background-size: cover;
+    background-image: url("FONDO-GRIS-e1472480711572.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
-.fondo-titulo{
-    background-color: chocolate;
+.fondo-titulo {
+    background-color: rgb(92, 185, 154);
     height: 50;
     width: 50;
+    margin-bottom: 10px;
 }
 
 
@@ -238,7 +239,7 @@ background-size: cover;
 }
 
 footer.footer {
-   
+
     height: 100px;
     width: 100%;
     background-color: rgb(104, 98, 98);
