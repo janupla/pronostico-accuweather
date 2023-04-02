@@ -258,14 +258,12 @@ p.copyright {
         flex-direction: column;
     }
 
-    nav {
-        padding: 10px 0px;
+}
+
+@media screen and (max-width: 480px) {
+    .contenedor {
+        flex-direction: column;
+        background-color: blue;
     }
 
-    @media (max-width:600px) {
-        .contenedor {
-            grid-template-columns: 1fr;
-        }
-
-    }
 }
