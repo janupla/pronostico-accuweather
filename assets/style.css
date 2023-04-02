@@ -8,8 +8,15 @@
     display: flex;
 }
 
+#grafico {
+    width: 1000px;
+    height: 500px;
+    margin-left: 200px;
+
+}
+
 body {
-background-image: url("images.jpg");
+background-image: url("FONDO-GRIS-e1472480711572.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 
