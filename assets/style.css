@@ -236,3 +236,16 @@ background-size: cover;
     display: flex;
 
 }
+
+footer.footer {
+   
+    height: 100px;
+    width: 100%;
+    background-color: rgb(104, 98, 98);
+}
+
+p.copyright {
+    color: #fff;
+    text-align: center;
+    font-size: 0.7em;
+}
